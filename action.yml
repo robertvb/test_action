@@ -1,0 +1,6 @@
+# action.yml
+name: 'DO CD'
+description: 'DO CD'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
